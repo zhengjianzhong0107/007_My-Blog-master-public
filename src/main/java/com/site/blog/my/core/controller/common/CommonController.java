@@ -13,8 +13,8 @@ import java.awt.image.BufferedImage;
 import java.io.ByteArrayOutputStream;
 
 /**
- * @qq 931708230     +微信 wxid_r91ed6rslwdu22
- * @email 931708230@qq.com
+ * @qq 1556708905     +微信 wxid_r91ed6rslwdu22
+ * @email 1556708905@qq.com
  */
 @Controller
 public class CommonController {

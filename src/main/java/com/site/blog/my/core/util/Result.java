@@ -3,8 +3,8 @@ package com.site.blog.my.core.util;
 import java.io.Serializable;
 
 /**
- * @qq 931708230
- * @email 931708230@qq.com
+ * @qq 1556708905
+ * @email 1556708905@qq.com
  */
 public class Result<T> implements Serializable {
     private static final long serialVersionUID = 1L;
